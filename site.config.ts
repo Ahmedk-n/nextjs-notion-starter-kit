@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'Ahmedkkadry',
   github: 'Ahmedk-n',
-  linkedin: 'fisch2',
+  linkedin: 'ahmedk-kadry',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
